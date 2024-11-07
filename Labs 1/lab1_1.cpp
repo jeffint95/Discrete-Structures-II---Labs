@@ -1,3 +1,6 @@
+// Jeffrey Interiano
+// CISC 2100
+
 #include <iostream>
 #include <cmath>
 #include <vector>

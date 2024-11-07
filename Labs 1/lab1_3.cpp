@@ -1,3 +1,6 @@
+// Jeffrey Interiano
+// CISC 2100
+
 #include <iostream>
 #include <cmath>
 #include <vector>
@@ -7,7 +10,7 @@ using namespace std;
 
 bool IsPrime(int n)
 {
-    if (n <= 1)
+    if (n <= 1)s
     {
         return false;
     }
